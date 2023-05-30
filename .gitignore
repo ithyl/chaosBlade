@@ -1,0 +1,31 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+/MMK-OPEN-API_IS_UNDEFINED
+/monkeyking-service/.settings/
+/monkeyking-service-internal-extension/src/main/java/com/taobao/csp/monkeyking/sunfire/SunfireVisitorImpl.java
+
+##
+test.json
+/monkeyking-web-cloud-extension/src/main/resources/api/ParamController/
+/monkeyking-web-cloud-extension/src/main/resources/api/ExpertiseController/
+/monkeyking-web-cloud-extension/src/main/resources/api/ApplicationController/
